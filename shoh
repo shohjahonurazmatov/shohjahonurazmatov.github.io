@@ -1,0 +1,9 @@
+import random
+
+sirli_son = rndm.randint(1, 10)
+t = int(input("1 dan 10 gacha son toping: "))
+
+if t == sirli_son:
+    print("To‘g‘ri topdingiz! 🎉")
+else:
+    print(f"Afsus, sirli son {sirli_son} edi 😅")
