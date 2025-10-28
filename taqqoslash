@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+if b > a:
+  print("katta son ",b)
+if a > b:
+ prit("katta son ",a)
+elif a == b:
+ print("bular teng okey")
